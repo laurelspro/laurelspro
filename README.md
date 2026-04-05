@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://laurels.pro/laurels-logo.png" alt="Laurels" width="80" />
+<img src="https://laurels.pro/laurels-logo.png" alt="Laurels" width="120" height="120" />
 
 **Your career, verified.**
 
