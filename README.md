@@ -41,16 +41,6 @@ We give them something better than a resume:
 
 ---
 
-## The stack
-
-```
-Next.js 16  ·  React 19  ·  TypeScript  ·  Tailwind CSS 4
-Supabase (Postgres + Auth + RLS)  ·  Stripe  ·  Cloudinary
-Resend  ·  Google Gemini  ·  Vercel Edge
-```
-
----
-
 ## Embed anywhere
 
 ```html
