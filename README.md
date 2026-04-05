@@ -10,7 +10,6 @@
 [![Twitter](https://img.shields.io/badge/@laurelspro-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/laurelspro)
 [![Status](https://img.shields.io/badge/status-live-00d084?style=for-the-badge)](https://laurels.pro/status)
 
-</div>
 
 ---
 
@@ -25,6 +24,7 @@
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+</div>
 
 ## What we build
 
