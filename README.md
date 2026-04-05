@@ -2,8 +2,6 @@
 
 <img src="https://laurels.pro/laurels-logo.png" alt="Laurels" width="80" />
 
-# Laurels
-
 **Your career, verified.**
 
 *The verified professional profile for people who work in tech.*
